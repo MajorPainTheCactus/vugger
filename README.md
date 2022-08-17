@@ -1,7 +1,7 @@
 # Vugger
 The realtime GPU debugger and modding tool for DirectX 11.  Using ImGui, ReShade and RenderDoc technologies to allow you to peer into the inner workings of your applications graphics pipeline in a more visual manner then a lot of other tools.
 
-Other grahics API's will be supported in the future.
+Other grahics API's will be supported in the future.  This is closed source at the moment but I aim to open it up once I get my feet on the ground.
 
 
 ## Installation
