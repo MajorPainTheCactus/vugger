@@ -15,3 +15,7 @@ Once done you can scroll and zoom by dragging the mouse and its wheel.
 This is a super alpha alpha alpha release so expect bugs and is just a sketch of where I want to get to.
 
 Lots of love MajorPainTheCactus
+
+Compatibility:
+RetroArch.exe (https://www.retroarch.com)
+MultiThreadedRendering11.exe (https://github.com/microsoft/DirectX-Graphics-Samples) 
