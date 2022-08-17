@@ -1,9 +1,12 @@
-# vugger
+# Vugger
 The realtime GPU debugger and modding tool for DirectX 11.  Using ImGui, ReShade and RenderDoc technologies to allow you to peer into the inner workings of your applications graphics pipeline in a more visual manner then a lot of other tools.
 
 Other grahics API's will be supported in the future.
 
+
+
 Installation:
+
 Simply copy either the 32bit or 64bit dxgi.dll into the same folder as your DirectX 11 application's executable file.  Which one depends on whether your application's executable file is 32bit or 64bit.
 
 Then simply run your app. Once at the point you want to delve deeper into simply press HOME.  
@@ -16,6 +19,10 @@ This is a super alpha alpha alpha release so expect bugs and is just a sketch of
 
 Lots of love MajorPainTheCactus
 
+
+
 Compatibility:
+
 RetroArch.exe (https://www.retroarch.com)
+
 MultiThreadedRendering11.exe (https://github.com/microsoft/DirectX-Graphics-Samples) 
