@@ -1,4 +1,4 @@
-# Vugger
+# Vugger - The Visual Debugger
 
 ![vugger](https://user-images.githubusercontent.com/89490246/185242089-146e69d6-f467-4d56-b5c1-2698302320d1.png)
 
