@@ -4,7 +4,7 @@ The realtime GPU debugger and modding tool for DirectX 11.  Using ImGui, ReShade
 Other grahics API's will be supported in the future.
 
 
-##Installation
+## Installation
 
 Simply copy either the 32bit or 64bit dxgi.dll into the same folder as your DirectX 11 application's executable file.  Which one depends on whether your application's executable file is 32bit or 64bit.
 
@@ -20,7 +20,7 @@ Lots of love MajorPainTheCactus
 
 
 
-##Compatibility
+## Compatibility
 
 RetroArch.exe (https://www.retroarch.com)
 
