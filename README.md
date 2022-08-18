@@ -26,6 +26,8 @@ Lots of love MajorPainTheCactus
 
 ## Compatibility
 
-RetroArch.exe (https://www.retroarch.com)
+DeadCells.exe (DX11 32bit, Steam)
 
-MultiThreadedRendering11.exe (https://github.com/microsoft/DirectX-Graphics-Samples) 
+RetroArch.exe (DX11 32bit + 64bit, https://www.retroarch.com)
+
+MultiThreadedRendering11.exe (DX11 32bit + 64bit, https://github.com/microsoft/DirectX-Graphics-Samples) 
