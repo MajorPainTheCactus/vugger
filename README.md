@@ -1,7 +1,7 @@
 # Vugger - The Visual Debugger
 
-![vugger](https://user-images.githubusercontent.com/89490246/185242089-146e69d6-f467-4d56-b5c1-2698302320d1.png)
-
+![vugger2](https://user-images.githubusercontent.com/89490246/185488870-710cde59-2e33-4ed4-b574-e1af585096f5.png)
+**Dead Cells (Steam)**
 
 The realtime GPU debugger and modding tool for DirectX 11.  Using ImGui, ReShade and RenderDoc technologies to allow you to peer into the inner workings of your applications graphics pipeline in a more visual manner then a lot of other tools.
 
@@ -26,6 +26,16 @@ Lots of love MajorPainTheCactus
 
 ## Compatibility
 
-RetroArch.exe (https://www.retroarch.com)
+DeadCells.exe (DX11 32bit, Steam)
 
-MultiThreadedRendering11.exe (https://github.com/microsoft/DirectX-Graphics-Samples) 
+RetroArch.exe (DX11 32bit + 64bit, https://www.retroarch.com)
+
+MultiThreadedRendering11.exe (DX11 32bit + 64bit, https://github.com/microsoft/DirectX-Graphics-Samples) 
+
+
+## Screenshots
+
+**MultiThreadedRendering11.exe**
+
+![vugger](https://user-images.githubusercontent.com/89490246/185242089-146e69d6-f467-4d56-b5c1-2698302320d1.png)
+
