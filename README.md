@@ -26,11 +26,16 @@ Lots of love MajorPainTheCactus
 
 ## Compatibility
 
-DeadCells.exe (DX11 32bit, Steam)
+DeadCells.exe (partial) (DX11 32bit, Steam)
 
 RetroArch.exe (DX11 32bit + 64bit, https://www.retroarch.com)
 
 MultiThreadedRendering11.exe (DX11 32bit + 64bit, https://github.com/microsoft/DirectX-Graphics-Samples) 
+NBodyGravityCS11.exe (doesn't render main scene properly) (DX11 32bit + 64bit, https://github.com/microsoft/DirectX-Graphics-Samples) 
+AdaptiveTessellationCS40.exe (dispatches need proper support) (DX11 32bit + 64bit, https://github.com/microsoft/DirectX-Graphics-Samples) 
+BasicHLSL11.exe (DX11 32bit + 64bit, https://github.com/microsoft/DirectX-Graphics-Samples) 
+BasicHLSLFX11.exe (DX11 32bit + 64bit, https://github.com/microsoft/DirectX-Graphics-Samples) 
+CascadedShadowMaps11.exe (resources broken) (DX11 32bit + 64bit, https://github.com/microsoft/DirectX-Graphics-Samples) 
 
 
 ## Screenshots
