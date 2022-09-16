@@ -48,3 +48,7 @@ CascadedShadowMaps11.exe (resources broken) (DX11 32bit + 64bit, https://github.
 
 ![vugger3](https://user-images.githubusercontent.com/89490246/190256614-7de7216d-f66c-4b36-a0e6-48d4745281ac.png)
 
+Zoomed in view of dispatch:
+
+![vugger4](https://user-images.githubusercontent.com/89490246/190761458-ea299a65-ed01-48b7-94c2-207f20f79f7e.png)
+
